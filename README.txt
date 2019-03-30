@@ -24,3 +24,5 @@ Para correr el proyecto:
 - Posicionarse en esta carpeta.
 - Correr el comando: python manage.py runserver
 - Acceder mediante el navegador al localhost en puerto 8000: http://127.0.0.1:8000.
+
+Repositorio: https://github.com/Bitnovation/Boombang.git
