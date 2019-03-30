@@ -2,7 +2,7 @@
 
 Para que el código funcione sin inconveniente se deben usar los siguientes comandos:
 
-/n pip install Django==2.1.7
+pip install Django==2.1.7
 pip install django-crispy-forms
 pip install django-bootstrap-modal-forms
 pip install Pillow
